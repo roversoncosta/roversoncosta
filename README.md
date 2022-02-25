@@ -6,7 +6,7 @@
     `Analise Exploratórian de Dados`, `Vizualização de Dados`, `Web Scraping` entre outras. 
     Para visulisualização de dados utilizo também o `Microsoft Power BI` onde consigo gerar um link do projeto e compartilhar para melhor acesso de todos.
     
-#### Certifidado de Cientista de Dados pela IBM: [Visualizar](https://github.com/rovcosta/IBM_DS_Certification_Final/blob/main/Certificados%20IBM%20DS/IBM%20Data%20Science%20Certificate.pdf)
+#### > Certifidado de Cientista de Dados pela IBM: [Visualizar](https://github.com/rovcosta/IBM_DS_Certification_Final/blob/main/Certificados%20IBM%20DS/IBM%20Data%20Science%20Certificate.pdf)
 
 
 #### Principais habilidades em `Python`:
@@ -21,9 +21,10 @@
 - Formatação de dados, criação de novas planilhas baseadas na original; 
 - Criação de novas medidas de cálculos utilizando formulas DAX para gerar indicadores;
 - Criação de `Dashboards` para compartilhamento online ou incorporação em sites/blogs)
-Exemplo de alguns Dashboards criados e compartilhados online: [Visualizar](https://geosuasmt.wordpress.com/)
 
-- Como me encontrar: roversonfcosta@gmail.com ou `+55 (65) 98119-8717`
+- Exemplo de alguns Dashboards criados e compartilhados online: [Visualizar](https://geosuasmt.wordpress.com/)
+
+> Como me encontrar: roversonfcosta@gmail.com ou `+55 (65) 98119-8717`
 <!--  
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
