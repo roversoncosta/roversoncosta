@@ -5,8 +5,7 @@
     `Analise Exploratórian de Dados`, `Vizualização de Dados`, `Web Scraping` entre outras. 
     Para visulisualização de dados utilizo também o `Microsoft Power BI` onde consigo gerar um link do projeto e compartilhar para melhor acesso de todos.
     
-#### Certifidado de Cientista de Dados: 
-`Certificado de Cientista de Dados pela IBM`
+#### Certifidado de Cientista de Dados pela IBM: [Visualizar](https://github.com/rovcosta/IBM_DS_Certification_Final/blob/main/Certificados%20IBM%20DS/IBM%20Data%20Science%20Certificate.pdf)
 - 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
