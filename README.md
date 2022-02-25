@@ -10,12 +10,12 @@
 
 
 #### Principais habilidades em `Python`:
-- Coleta de dados em diferentes formatos  
+- Coleta de dados em diferentes formatos ( excel, csv, pdf dentre outros. Utilizo ainda `Webscraping` com `Beautiful Soap` e `Selenium`)
 - Conecção, consulta, extração de dados em SQL Language com python
 - Limpeza dos dados ex:(Anonimização, lipeza de caracteres, correção de data types, null/na values, drop columns etc.)
 - Análise Exploratória de Dados (Utilizando os principais métodos das biblioteca Pandas, numpy, matplotlib, seaborn etc.)
-- Visualização de Dados Python ( Utilizo muito Geopandas para gerar mapas, Folium, Plotly e o próprio matplotlib com ediçoes de designs mias avançados)
-- Visualização de Dados Power BI ( Conectando dados via banco de dados, código python ou mesmo planilha de excel. Criação de Dashboards para compartilhamento online ou incorporação em sites/blogs)
+- Visualização de Dados Python ( Utilizo muito `Geopandas` para gerar mapas, `Folium`, `Plotly` e o próprio matplotlib com ediçoes de designs mias avançados)
+- Visualização de Dados Power BI ( Conectando dados via banco de dados, código python ou mesmo planilha de excel. Criação de `Dashboards` para compartilhamento online ou incorporação em sites/blogs)
 
 - Como me encontrar: roversonfcosta@gmail.com ou `+55 (65) 98119-8717`
 <!--  
