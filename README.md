@@ -1,8 +1,12 @@
 ### Olá 👋
 
-- 🔭 Trabalho há 10 anos como Psicólogo -  Analista de Desenvolvimento Econômico e Social. Concurso Público pelo Estado de Mato Grosso.
-- 🌱 Atualmente estou em busca em trabalho remoto como `Cientista de Dados`. Isso ai! `HUMANAS` + `EXATAS` por que não as duas ??!\
-    Fiz algums curso de Cientista de Dados DataScienceAdademy e Consegui um `Certificado de Cientista de Dados pela IBM` EM 2021. 
+- 🔭 Trabalho há 10 anos como Psicólogo -  Analista de Desenvolvimento Econômico e Social (Concurso Público 30h Mato Grosso)
+-  Utilizo diariamente técnicas de um cientista de dados diariamente em meu trabalho, principalmente em `Python` para realizar Limpesa de dados, 
+    `Analise Exploratórian de Dados`, `Vizualização de Dados`, `Web Scraping` entre outras. 
+    Para visulisualização de dados utilizo também o `Microsoft Power BI` onde consigo gerar um link do projeto e compartilhar para melhor acesso de todos.
+    
+#### Certifidado de Cientista de Dados: 
+`Certificado de Cientista de Dados pela IBM`
 - 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
