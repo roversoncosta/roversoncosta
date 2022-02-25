@@ -15,7 +15,13 @@
 - Limpeza dos dados ex:(Anonimização, lipeza de caracteres, correção de data types, null/na values, drop columns etc.)
 - Análise Exploratória de Dados (Utilizando os principais métodos das biblioteca Pandas, numpy, matplotlib, seaborn etc.)
 - Visualização de Dados Python ( Utilizo muito `Geopandas` para gerar mapas, `Folium`, `Plotly` e o próprio matplotlib com ediçoes de designs mias avançados)
-- Visualização de Dados Power BI ( Conectando dados via banco de dados, código python ou mesmo planilha de excel. Criação de `Dashboards` para compartilhamento online ou incorporação em sites/blogs)
+
+#### Principais habilidades em `Microsoft Power BI`:
+- Conectando dados via código python ou mesmo planilha em excel;
+- Formatação de dados, criação de novas planilhas baseadas na original; 
+- Criação de novas medidas de cálculos utilizando formulas DAX para gerar indicadores;
+- Criação de `Dashboards` para compartilhamento online ou incorporação em sites/blogs)
+Exemplo de alguns Dashboards criados e compartilhados online: [Visualizar](https://geosuasmt.wordpress.com/)
 
 - Como me encontrar: roversonfcosta@gmail.com ou `+55 (65) 98119-8717`
 <!--  
