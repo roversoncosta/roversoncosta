@@ -1,10 +1,9 @@
 ### Olá 👋
-
-- 🔭 Trabalho há 10 anos como Psicólogo -  Analista de Desenvolvimento Econômico e Social (Concurso Público 30h Mato Grosso)
-
--  Utilizo diariamente técnicas de um cientista de dados diariamente em meu trabalho, principalmente em `Python` para realizar Limpesa de dados, 
-    `Analise Exploratórian de Dados`, `Vizualização de Dados`, `Web Scraping` entre outras. 
-    Para visulisualização de dados utilizo também o `Microsoft Power BI` onde consigo gerar um link do projeto e compartilhar para melhor acesso de todos.
+- Sou Psicólogo e Analista De Desenvolvimento de Sistemas de formação.
+- 🔭 Atuo há 12 anos como Analista de Desenvolvimento Econômico e Social - perfil Psicólogo, no Estado de Mato Grosso.
+- Nos útltmos 5 anos tenho me especializado e utilizado diversas ferramentas de Ciencia de Dados tais como:
+Linguagem de programação `Python` para realizar Limpesa de dados,`Analise Exploratórian de Dados`, `Vizualização de Dados`, `Web Scraping` entre outras. 
+Para visulisualização de dados utilizo também o `Microsoft Power BI` onde consigo gerar um link do projeto e compartilhar para melhor acesso de todos.
     
 #### > Certifidado de Cientista de Dados pela IBM: [Visualizar](https://github.com/rovcosta/IBM_DS_Certification_Final/blob/main/Certificados%20IBM%20DS/IBM%20Data%20Science%20Certificate.pdf)
 
@@ -23,14 +22,3 @@
 - Criação de `Dashboards` para compartilhamento online ou incorporação em sites/blogs)
 
 - Exemplo de alguns Dashboards criados e compartilhados online: [Visualizar](https://geosuasmt.wordpress.com/)
-
-> Como me encontrar: roversonfcosta@gmail.com ou `+55 (65) 98119-8717`
-<!--  
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
